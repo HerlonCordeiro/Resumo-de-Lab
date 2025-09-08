@@ -10,3 +10,6 @@ Durante essa aula, pude ampliar bastante meus conhecimentos sobre os principais 
 Também entendi melhor como funciona o modelo de responsabilidade compartilhada, identificando o que fica a cargo da Microsoft e o que é responsabilidade do cliente, principalmente em relação à segurança, configuração e manutenção.
 
 Na parte prática, tive a experiência de configurar um banco de dados dentro do Microsoft Azure, o que me ajudou a conectar a teoria com a prática e reforçar minhas habilidades em cloud computing e gerenciamento de recursos em nuvem.
+
+
+O Azure organiza seus recursos em componentes de arquitetura (computação, rede, armazenamento, segurança e monitoramento), distribuídos em pares de região para garantir disponibilidade, agrupados em grupos de recursos para facilitar gestão, e tudo isso pode ser administrado pelo portal, automação ou políticas de governança.
