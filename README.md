@@ -13,3 +13,7 @@ Na parte prática, tive a experiência de configurar um banco de dados dentro do
 
 
 O Azure organiza seus recursos em componentes de arquitetura (computação, rede, armazenamento, segurança e monitoramento), distribuídos em pares de região para garantir disponibilidade, agrupados em grupos de recursos para facilitar gestão, e tudo isso pode ser administrado pelo portal, automação ou políticas de governança.
+
+Na área de computação, a plataforma disponibiliza recursos como Máquinas Virtuais (VMs), que possibilitam a criação de ambientes personalizados para sistemas e aplicações; App Services, voltado para hospedagem e gerenciamento de aplicativos web; e Azure Functions, que permite executar códigos de forma escalável sem a necessidade de gerenciar servidores. Esses serviços garantem desempenho e adaptação de acordo com a demanda.
+
+Já nos serviços de redes, o Azure oferece soluções como Virtual Network (VNet), que cria redes privadas na nuvem para interligar recursos de forma segura; Load Balancer, que distribui automaticamente o tráfego entre diferentes servidores, otimizando a performance; e VPN Gateway, que conecta redes locais ao Azure através de túneis criptografados. Além disso, há também o Azure CDN, que acelera a entrega de conteúdo globalmente, e o Firewall do Azure, voltado para proteção avançada contra ameaças.
