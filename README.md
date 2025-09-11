@@ -29,3 +29,9 @@ Já o Azure Marketplace funciona como uma vitrine de soluções e aplicativos pr
 A governança no Azure refere-se ao conjunto de práticas, políticas e ferramentas que permitem às organizações gerenciar, controlar e padronizar o uso de recursos em nuvem. Isso inclui o uso de recursos como Azure Policy, Management Groups e Role-Based Access Control (RBAC), que ajudam a aplicar regras, definir limites de uso, gerenciar acessos e garantir que as implementações estejam alinhadas aos objetivos de negócio e requisitos internos.
 
 Já a conformidade está relacionada à aderência a normas, leis e regulamentações nacionais e internacionais, como LGPD, GDPR, ISO e HIPAA. O Azure fornece certificações e relatórios de auditoria que ajudam as empresas a atender exigências legais e regulatórias, além de oferecer o Compliance Manager, que facilita a avaliação de riscos e a implementação de controles necessários.
+
+O PowerShell é uma ferramenta de linha de comando e também uma linguagem de script desenvolvida pela Microsoft, utilizada para automatizar tarefas de administração de sistemas e implantar configurações em escala.
+
+No gerenciamento, ele permite o uso de cmdlets para controlar usuários, grupos, processos e serviços, além de possibilitar a administração de sistemas locais e remotos. Também é bastante usado para consultar e alterar configurações do Windows, rede e hardware, oferecendo um controle centralizado sobre os recursos da máquina.
+
+Na parte de implantação, o PowerShell possibilita a automatização de instalações de softwares e pacotes, o gerenciamento de recursos em nuvem como Azure e AWS, a aplicação de configurações em massa por meio do PowerShell DSC (Desired State Configuration) e ainda a execução de scripts em máquinas remotas utilizando o PowerShell Remoting.
